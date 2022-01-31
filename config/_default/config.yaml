@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Work in progress # Website name
+title: Academic portfolio  # Website name
 baseurl: 'http://www.quinncabooter.com' # Website URL
 copyright: 'Quinn Cabooter © {year} ' # Footer text, e.g. '© {year} Me'
 
