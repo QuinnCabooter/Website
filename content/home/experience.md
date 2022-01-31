@@ -25,7 +25,7 @@ experience:
   - title: Research intern
     company: University of Amsterdam
     company_url: ''
-    company_logo: org-gc
+    company_logo: uva
     location: Amsterdam
     date_start: '2021-09-01'
     date_end: '2022-02-18'
