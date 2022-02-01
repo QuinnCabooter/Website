@@ -51,7 +51,7 @@ social:
   link: https://www.researchgate.net/profile/Quinn-Cabooter
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/quinncabooter
