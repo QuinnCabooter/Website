@@ -17,7 +17,7 @@ organizations:
   url: https://www.uva.nl
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include eye tracking and neuroscience.
 
 # Interests to show in About widget
 interests:
@@ -73,4 +73,6 @@ email: "quinn.cabooter1@gmail.com"
 highlight_name: true
 ---
 
-This website is a work in progress. 
+Dear visitor
+
+My name is Quinn Cabooter and I am currently a student in experimental psychology at Ghent University. I am scheduled to graduate in August 2022 and I am currently looking for PhD opportunities to continue my career in academics. You are welcome to take a look through my portfolio. Keep in mind, however, that this website is still a work in progress.
