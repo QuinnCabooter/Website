@@ -3,7 +3,7 @@ title: Master thesis
 summary: This is a short summary of the research for my Masters thesis which is still ongoing. This project is sheduled to be handed it in August 2022.
 tags:
 - Masters thesis
-date: "2016-04-27T00:00:00Z"
+date: "2022-04-30T17:49:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
