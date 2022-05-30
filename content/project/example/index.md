@@ -1,5 +1,5 @@
 ---
-title: Master thesis
+title: Masters thesis
 summary: This is a short summary of the research for my Masters thesis which is still ongoing. This project is sheduled to be handed it in August 2022.
 tags:
 - Masters thesis
